@@ -1,0 +1,7 @@
+name: Lobbysystem
+version: '${project.version}'
+main: de.villigi.lobbysystemendervillage.LobbySystem
+
+commands:
+  setloc:
+  build:
